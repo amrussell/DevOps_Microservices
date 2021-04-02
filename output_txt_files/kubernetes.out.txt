@@ -1,0 +1,5 @@
+NAME                         READY   STATUS    RESTARTS   AGE
+flask-app-6f948c9cb8-vxrg5   1/1     Running   0          30s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000

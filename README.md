@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![<ORG_NAME>](https://circleci.com/gh/amrussell/Devops_Microservices.svg?style=svg)](<LINK>) 
 
 ## Project Overview
 

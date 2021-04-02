@@ -1,4 +1,4 @@
-[![<ORG_NAME>](https://circleci.com/gh/amrussell/Devops_Microservices.svg?style=svg)](<LINK>) 
+[![<amrussell>](https://circleci.com/gh/amrussell/Devops_Microservices.svg?style=svg)](<LINK>) 
 
 ## Project Overview
 
